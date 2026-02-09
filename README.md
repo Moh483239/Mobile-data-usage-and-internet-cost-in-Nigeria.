@@ -2,8 +2,6 @@
 Mobile data has become an essential part of daily life in Nigeria. From social media scrolling to streaming videos, the cost of staying connected is the major part of people’s budgets. But how much do Nigerians really spend on mobile data each month?
 **INTRODUCTION**
 
-Mobile data has become an essential part of daily life in Nigeria. From social media scrolling to streaming videos, the cost of staying connected is the major part of people’s budgets. But how much do Nigerians really spend on mobile data each month?
-
 Based on recent analysis, it turns out that most people spend over 5,000 Naira per month on mobile data. This is a significant portion of the average monthly budget, showing how crucial affordable and reliable data plans are.
 
 **OBJECTIVES**
