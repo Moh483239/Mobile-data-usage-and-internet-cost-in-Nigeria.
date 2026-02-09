@@ -22,7 +22,6 @@ This charts shows that most Nigerians spends above 5,000 Naira on mobile data mo
 
 Analysis: The data shows that mobile data is a major recurring expense for most Nigerians. Spending above 5,000 Naira per month highlights how essential internet access has become for daily activities such as social media, streaming, online learning, and work.
 
-Become a member
 **SATISFACTION RATING**
 
 
